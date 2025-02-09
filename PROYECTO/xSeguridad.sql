@@ -1,0 +1,12 @@
+
+-------ROLES-----------------
+DROP ROLE Pasajero;
+DROP ROLE Conductor;
+DROP ROLE Administradoress;
+
+
+-------PAQUETES ACTORES----------
+DROP PACKAGE PA_ADMINISTRADORES;
+DROP PACKAGE PA_PASAJEROS;
+DROP PACKAGE PA_CONDUCTORES;
+

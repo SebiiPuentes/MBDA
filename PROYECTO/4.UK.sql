@@ -1,0 +1,1 @@
+ALTER TABLE Ubicaciones ADD CONSTRAINT UK_Nombre UNIQUE (nombre);

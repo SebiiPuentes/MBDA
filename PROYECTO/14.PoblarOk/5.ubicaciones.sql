@@ -1,0 +1,65 @@
+
+
+INSERT INTO UBICACIONES (NOMBRE) 
+VALUES ('Zona T');
+
+INSERT INTO UBICACIONES (NOMBRE) 
+VALUES ('Centro Comercial Gran Estación');
+
+INSERT INTO UBICACIONES (NOMBRE) 
+VALUES ('La Candelaria');
+
+INSERT INTO UBICACIONES (NOMBRE) 
+VALUES ('Centro Comercial Salitre Plaza');
+
+INSERT INTO UBICACIONES (NOMBRE) 
+VALUES ('Puente Boyacá con 80');
+
+INSERT INTO UBICACIONES (NOMBRE) 
+VALUES ('Jardín Botánico');
+
+INSERT INTO UBICACIONES (NOMBRE) 
+VALUES ('Centro Comercial Atlantis Plaza');
+
+INSERT INTO UBICACIONES (NOMBRE) 
+VALUES ('Centro Comercial Palatino');
+
+INSERT INTO UBICACIONES (NOMBRE) 
+VALUES ('Plaza de Bolívar');
+
+INSERT INTO UBICACIONES (NOMBRE) 
+VALUES ('Andino Shopping Mall');
+
+INSERT INTO UBICACIONES (NOMBRE) 
+VALUES ('Centro Comercial Hayuelos');
+
+INSERT INTO UBICACIONES (NOMBRE) 
+VALUES ('Centro Comercial Plaza de las Américas');
+
+INSERT INTO UBICACIONES (NOMBRE) 
+VALUES ('Centro Comercial El Retiro');
+
+INSERT INTO UBICACIONES (NOMBRE) 
+VALUES ('Parque Simón Bolívar');
+
+INSERT INTO UBICACIONES (NOMBRE) 
+VALUES ('Museo del Oro');
+
+INSERT INTO UBICACIONES (NOMBRE) 
+VALUES ('Centro Comercial Santafé');
+
+INSERT INTO UBICACIONES (NOMBRE) 
+VALUES ('Centro Comercial Santa Fe');
+
+INSERT INTO UBICACIONES (NOMBRE) 
+VALUES ('Centro Comercial Unicentro');
+
+INSERT INTO UBICACIONES (NOMBRE) 
+VALUES ('Centro Comercial Titan Plaza');
+
+INSERT INTO UBICACIONES (NOMBRE) 
+VALUES ('Monserrate');
+
+INSERT INTO UBICACIONES (NOMBRE) 
+VALUES ('Escuela Colombiana de Ingenieria Julio Garavito');
+
